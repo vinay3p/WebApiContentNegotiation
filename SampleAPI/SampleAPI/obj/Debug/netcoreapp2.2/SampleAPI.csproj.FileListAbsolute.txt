@@ -1,0 +1,14 @@
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.deps.json
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.runtimeconfig.json
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.runtimeconfig.dev.json
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.dll
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.pdb
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.csprojAssemblyReference.cache
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.csproj.CoreCompileInputs.cache
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.RazorAssemblyInfo.cache
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.RazorAssemblyInfo.cs
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.AssemblyInfoInputs.cache
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.AssemblyInfo.cs
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.RazorTargetAssemblyInfo.cache
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.dll
+D:\REST\ContentNg\New folder\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.pdb
